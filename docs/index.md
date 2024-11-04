@@ -1,25 +1,12 @@
-# 📚 Table of contents
+# Lottie Provost
 
-![Image by Nate Williams on Unsplash](attachments/Pasted%20image%2020240612165538.png) Source: [Nate Williams on Unsplash](https://unsplash.com/fr/@primalimagery)
-
-## 📍 What is Research Data Management?
-
-A broad introduction to RDM including core values; RDM vocabulary; data steward
- 
-[![Go to Lesson](https://img.shields.io/badge/Get-Started-black)](https://github.com/LottiePrv/RDM/blob/main/docs/1.%20What%20is%20RDM%3F/RDM%20intro.md) I  [![Download PDF](https://img.shields.io/badge/Download-PDF-red)](file:///Users/lottieprovost/Downloads/PDF%20-%201.%20A%20broad%20introduction%20to%20Research%20Data%20Management%20-%20Research%20Data%20Management%20and%20Open%20Science%20(1).pdf)
-
-[Go to lesson](../PDF%20-%201.%20A%20broad%20introduction%20to%20Research%20Data%20Management%20-%20Research%20Data%20Management%20and%20Open%20Science.pdf)
+👩‍🦰 Fellow Researcher
+📍 Pisa, Italy
+##### <font color="#7f7f7f"><p align="justify">I work at the Institute of Computational Linguistics (ILC) of the CNR in Pisa, Italy. My work revolves around the promotion and implementation of Open Science and Research Data Management practices, primarily for SSH.</p></font>
+###### What I do: Research and support to research, teaching and training, project management, science communication
+My educational background is in Languages and Social Sciences and in International Project Management. At the moment, I am co-leading WP6 - Communication, Engagement, Exploitation in the Horizon Europe project [GraspOS](https://graspos.eu/) and I participate in the Horizon Europe project [Skills4EOSC](https://www.skills4eosc.eu/), in WP3 - Open Science training for evidence-based policy and public administration to Science for Policy. I am a member of the data management team for the [Mapping and Translating Spaces, Cultures and Languages](https://sites.google.com/uniroma1.it/mapping-translating-prin22-cnr/home?authuser=0)  PRIN 2022 project.
 
 
----
-## 📍 Open Science in EU Policy 
-An introduction to Open Science for early career researchers (but not only!) with a focus on evolving EU policy in the past years.
-Go to lesson (tbd)
-
----
-## 📍 Open Science (and RDM) in Horizon Europe Framework Programme 
-
-Dive into the Open Science requirements of the EU’s key funding programme for research and innovation: Horizon Europe.
-Go to lesson (tbd)
+All my work is listed here ➡️ https://orcid.org/0000-0001-5279-797X
 
 
