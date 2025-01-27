@@ -1,6 +1,7 @@
 
-![](attachments/vecteezy_documents-storage-and-organization_13134199.jpg)
 
+
+![](attachments/vecteezy_documents-storage-and-organization_13134199%201.jpg)
 ## Research Articles
 
 - Provost L, Bezuidenhout L, Venkataraman S, van der Lek I, van Gelder C, Kuchma I, Leenarts E, Azevedo F, Brvar IV, Paladin L, Clare H and Braukmann R (2024) **Towards FAIRification of learning resources and catalogues—lessons learnt from research communities**. *Frontiers in Education*, 9:1390444. DOI [10.3389/feduc.2024.1390444](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1390444/full).
