@@ -8,7 +8,6 @@
 
 ##### Contributions at conferences
 
-- 
 - Di Donato, Francesca, Lottie Provost (2022) **The TRIPLE Training Toolkit. From Online Training on Open Science to the Design and Delivery of Open Educational Resources: An Example of FAIR-Ification of Digital Training Resources and Workflows**’. In Conferenza GARR 2022 - Condivisioni - La Rete Come Strumento per Costruire Il Futuro, GARR. May 2022.  DOI [10.26314/GARR-Conf22-proceedings-09](https://doi.org/10.26314/GARR-Conf22-proceedings-09).
 
 ##### Other types of research products
